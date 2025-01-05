@@ -1,0 +1,1 @@
+Patches in 24, 36, and 72 tone equal temperaments. Contains interval comparison presets and basic scales. Designed to be used in conjunction with the text “Steps to the Sea” by Prof. Julia Werntz (New England Conservatory).
